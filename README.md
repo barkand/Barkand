@@ -1,7 +1,6 @@
 - 🔭 I’m currently working on:
         #JavaScript #Python #Solidity
         #React #GraphQL #MongoDB 
-        
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/barkand) , [Email](mailto:barkand@ymail.com) 
 
         
