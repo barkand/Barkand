@@ -1,10 +1,10 @@
-### Hi there 👋
+- 🔭 I’m currently working on:
+        #JavaScript #Python #Solidity
+        #React #GraphQL #MongoDB 
+        
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/barkand) , [Email](mailto:barkand@ymail.com) 
 
 <!--
-**barkand/Barkand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
