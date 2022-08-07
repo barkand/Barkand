@@ -16,4 +16,8 @@
 - ⚡ Fun fact: ...
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Barkand&show_icons=true&theme=gotham" alt="Barkand&" />
+
+![svg](https://github.com/barkand/Barkand/blob/main/profile-3d-contrib/profile-season.svg)
+https://github.com/barkand/Barkand/blob/main/profile-3d-contrib/profile-green-animate.svg
+
 -->
