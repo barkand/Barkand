@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on: 
-
+        
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=)]()
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=)]()
 [![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white&link=)]()
@@ -26,9 +26,13 @@
 
 <br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Barkand&show_icons=true&theme=gotham" alt="Barkand&" />
 
-
+<p align="center">
+        
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Barkand&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
+        
+</p>
 
 ----
 
@@ -49,12 +53,8 @@
 
 - 💬 Find out more about me: 
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Barkand&show_icons=true&theme=gotham" alt="Barkand&" />
-
 ![svg](https://github.com/barkand/Barkand/blob/main/profile-3d-contrib/profile-season.svg)
 ![svg](https://github.com/barkand/Barkand/blob/main/profile-3d-contrib/profile-green-animate.svg)
-
 
 [![Prometheus Badge](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white&link=)]()
 [![Grafana Badge](https://img.shields.io/badge/-Grafana-663399?style=flat-square&logo=Grafana&logoColor=white&link=)]()
