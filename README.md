@@ -29,7 +29,7 @@
 
 <p align="center">
         
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Barkand&show_icons=true&theme=gotham)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Barkand&show_icons=true&hide=issues&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
         
 </p>
