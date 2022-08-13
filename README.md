@@ -26,14 +26,9 @@
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white&link=)]()
 
-<br />
-
-
 <p align="center">
-        
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Barkand&show_icons=true&hide=issues&count_private=true&theme=gotham)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
-        
 </p>
 
 ---
@@ -57,6 +52,9 @@
 
 ![svg](https://github.com/barkand/Barkand/blob/main/profile-3d-contrib/profile-season.svg)
 ![svg](https://github.com/barkand/Barkand/blob/main/profile-3d-contrib/profile-green-animate.svg)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Barkand&show_icons=true&hide=issues&count_private=true&theme=gotham)
 
 [![Storybook Badge](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white&link=)]()
 -->
