@@ -1,5 +1,4 @@
-- 🔭 I’m currently working on: 
-        
+      
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=)]()
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=)]()
 [![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white&link=)]()
