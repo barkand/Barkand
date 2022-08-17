@@ -4,9 +4,8 @@
 [![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white&link=)]()
 <br />
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white&link=)]()
-[![MUI Badge](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white&link=)]()
 [![Gatsby Badge](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white&link=)]()
-[![MDX Badge](https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=MDX&logoColor=white&link=)]()
+[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white&link=)]()
 
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white&link=)]()
 [![ApolloGraphql Badge](https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=ApolloGraphql&logoColor=white&link=)]()
@@ -16,14 +15,11 @@
 [![microsoftsqlserver Badge](https://img.shields.io/badge/-SQLServer-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&link=)]()
 [![MariaDB Badge](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white&link=)]()
 
-[![apacheairflow Badge](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white&link=)]()
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
 [![Prometheus Badge](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white&link=)]()
 [![Grafana Badge](https://img.shields.io/badge/-Grafana-663399?style=flat-square&logo=Grafana&logoColor=white&link=)]()
+[![apacheairflow Badge](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white&link=)]()
 <br />
-[![web3dotjs Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white&link=)]()
-[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white&link=)]()
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white&link=)]()
 
 <p align="center">
 
@@ -55,4 +51,8 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Barkand&show_icons=true&hide=issues&count_private=true&theme=gotham)
 
 [![Storybook Badge](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white&link=)]()
+[![MUI Badge](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white&link=)]()
+[![web3dotjs Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white&link=)]()
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white&link=)]()
+[![MDX Badge](https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=MDX&logoColor=white&link=)]()
 -->
