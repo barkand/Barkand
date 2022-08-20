@@ -50,9 +50,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Barkand&show_icons=true&hide=issues&count_private=true&theme=gotham)
 
-[![Storybook Badge](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white&link=)]()
 [![MUI Badge](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white&link=)]()
-[![web3dotjs Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white&link=)]()
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white&link=)]()
 [![MDX Badge](https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=MDX&logoColor=white&link=)]()
 -->
