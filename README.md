@@ -49,6 +49,4 @@
 ![svg](https://github.com/barkand/Barkand/blob/main/profile-3d-contrib/profile-green-animate.svg)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Barkand&show_icons=true&hide=issues&count_private=true&theme=gotham)
-
-[![MDX Badge](https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=MDX&logoColor=white&link=)]()
 -->
