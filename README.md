@@ -50,6 +50,5 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Barkand&show_icons=true&hide=issues&count_private=true&theme=gotham)
 
-[![MUI Badge](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white&link=)]()
 [![MDX Badge](https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=MDX&logoColor=white&link=)]()
 -->
