@@ -30,7 +30,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-barkand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barkand/)](https://www.linkedin.com/in/barkand/)
 [![Yahoo! Badge](https://img.shields.io/badge/-barkand@ymail.com-6001D2?style=flat-square&logo=Yahoo!&logoColor=white&link=mailto:barkand@ymail.com)](mailto:barkand@ymail.com)
-
+[![gmail Badge](https://img.shields.io/badge/-h.barkand@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:h.barkand@gmail.com)](mailto:h.barkand@gmail.com)
         
 <!--
 - 🔭 I’m currently working on ...
