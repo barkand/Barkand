@@ -4,17 +4,13 @@
 [![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white&link=)]()
 <br />
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white&link=)]()
-[![Gatsby Badge](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white&link=)]()
-[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white&link=)]()
-
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white&link=)]()
-[![ApolloGraphql Badge](https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=ApolloGraphql&logoColor=white&link=)]()
 [![Express Badge](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white&link=)]()
 <br />
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=)]()
 [![microsoftsqlserver Badge](https://img.shields.io/badge/-SQLServer-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&link=)]()
 [![MariaDB Badge](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white&link=)]()
-
+<br />
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
 [![Prometheus Badge](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white&link=)]()
 [![Grafana Badge](https://img.shields.io/badge/-Grafana-663399?style=flat-square&logo=Grafana&logoColor=white&link=)]()
@@ -40,6 +36,11 @@
 
 
 - 💬 Find out more about me: 
+
+
+[![Gatsby Badge](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white&link=)]()
+[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white&link=)]()
+[![ApolloGraphql Badge](https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=ApolloGraphql&logoColor=white&link=)]()
 
 ![svg](https://github.com/barkand/Barkand/blob/main/profile-3d-contrib/profile-season.svg)
 ![svg](https://github.com/barkand/Barkand/blob/main/profile-3d-contrib/profile-green-animate.svg)
