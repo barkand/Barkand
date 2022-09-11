@@ -14,7 +14,6 @@
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
 [![Prometheus Badge](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white&link=)]()
 [![Grafana Badge](https://img.shields.io/badge/-Grafana-663399?style=flat-square&logo=Grafana&logoColor=white&link=)]()
-[![apacheairflow Badge](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white&link=)]()
 <br />
 
 <p align="center">
@@ -26,8 +25,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-barkand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barkand/)](https://www.linkedin.com/in/barkand/)
 [![Yahoo! Badge](https://img.shields.io/badge/-barkand@ymail.com-6001D2?style=flat-square&logo=Yahoo!&logoColor=white&link=mailto:barkand@ymail.com)](mailto:barkand@ymail.com)
-[![gmail Badge](https://img.shields.io/badge/-h.barkand@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:h.barkand@gmail.com)](mailto:h.barkand@gmail.com)
-        
+
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
@@ -37,13 +35,19 @@
 
 - 💬 Find out more about me: 
 
+[![gmail Badge](https://img.shields.io/badge/-h.barkand@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:h.barkand@gmail.com)](mailto:h.barkand@gmail.com)
 
 [![Gatsby Badge](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white&link=)]()
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white&link=)]()
 [![ApolloGraphql Badge](https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=ApolloGraphql&logoColor=white&link=)]()
+[![apacheairflow Badge](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white&link=)]()
 
 ![svg](https://github.com/barkand/Barkand/blob/main/profile-3d-contrib/profile-season.svg)
 ![svg](https://github.com/barkand/Barkand/blob/main/profile-3d-contrib/profile-green-animate.svg)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Barkand&show_icons=true&hide=issues&count_private=true&theme=gotham)
+
+
+[![Barkand's github activity graph](https://activity-graph.herokuapp.com/graph?username=barkand&theme=react-dark)](https://github.com/barkand/github-readme-activity-graph)
+
 -->
