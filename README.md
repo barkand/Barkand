@@ -39,7 +39,6 @@
 
 [![Gatsby Badge](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white&link=)]()
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white&link=)]()
-[![ApolloGraphql Badge](https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=ApolloGraphql&logoColor=white&link=)]()
 [![apacheairflow Badge](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white&link=)]()
 
 ![svg](https://github.com/barkand/Barkand/blob/main/profile-3d-contrib/profile-season.svg)
