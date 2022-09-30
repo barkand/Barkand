@@ -34,9 +34,6 @@
 
 
 - 💬 Find out more about me: 
-
-[![gmail Badge](https://img.shields.io/badge/-h.barkand@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:h.barkand@gmail.com)](mailto:h.barkand@gmail.com)
-
 [![Gatsby Badge](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white&link=)]()
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white&link=)]()
 [![apacheairflow Badge](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white&link=)]()
