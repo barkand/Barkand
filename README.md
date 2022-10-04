@@ -16,17 +16,19 @@
 [![Grafana Badge](https://img.shields.io/badge/-Grafana-663399?style=flat-square&logo=Grafana&logoColor=white&link=)]()
 <br />
 
-<p align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
-</p>
 
 ---
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-barkand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barkand/)](https://www.linkedin.com/in/barkand/)
 [![Yahoo! Badge](https://img.shields.io/badge/-barkand@ymail.com-6001D2?style=flat-square&logo=Yahoo!&logoColor=white&link=mailto:barkand@ymail.com)](mailto:barkand@ymail.com)
 
 <!--
+
+<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
+</p>
+
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
