@@ -49,7 +49,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Barkand&show_icons=true&hide=issues&count_private=true&theme=gotham)
 
-
 [![Barkand's github activity graph](https://activity-graph.herokuapp.com/graph?username=barkand&theme=react-dark)](https://github.com/barkand/github-readme-activity-graph)
 
 -->
