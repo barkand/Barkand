@@ -16,7 +16,7 @@
 [![Grafana Badge](https://img.shields.io/badge/-Grafana-663399?style=flat-square&logo=Grafana&logoColor=white&link=)]()
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX,html,css&theme=dracula)
 
 ---
 
@@ -28,6 +28,8 @@
 [![Yahoo! Badge](https://img.shields.io/badge/-barkand@ymail.com-6001D2?style=flat-square&logo=Yahoo!&logoColor=white&link=mailto:barkand@ymail.com)](mailto:barkand@ymail.com)
 
 <!--
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
 
 <p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
