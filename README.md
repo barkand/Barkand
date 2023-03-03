@@ -10,7 +10,7 @@
 <br />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&count_private=true&hide=TeX,html,css,shell,Jupyter%20Notebook&layout=compact&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&count_private=true&hide=TeX,html,css,shell&layout=compact&hide_progress=true&langs_count=6&bg_color=00000000)
 
 ---
 
