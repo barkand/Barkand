@@ -8,11 +8,7 @@
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white&link=)]()
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=)]()
 <br />
-[![Web3.js Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white&link=)]()
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
-[![Prometheus Badge](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white&link=)]()
-[![Grafana Badge](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white&link=)]()
-<br />
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX,html,css&theme=dracula)
 
@@ -37,6 +33,12 @@
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
+[![Web3.js Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white&link=)]()
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
+[![Prometheus Badge](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white&link=)]()
+[![Grafana Badge](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white&link=)]()
+<br />
 
 [![Rust Badge](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white&link=)]()
 [![Gatsby Badge](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white&link=)]()
