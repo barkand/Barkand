@@ -41,7 +41,6 @@
 [![Grafana Badge](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white&link=)]()
 <br />
 
-[![Rust Badge](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white&link=)]()
 [![Gatsby Badge](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white&link=)]()
 [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white&link=)]()
 [![OpenZeppelin Badge](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=OpenZeppelin&logoColor=white&link=)]()
