@@ -45,7 +45,6 @@
 [![OpenZeppelin Badge](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=OpenZeppelin&logoColor=white&link=)]()
 [![MariaDB Badge](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white&link=)]()
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white&link=)]()
-[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white&link=)]()
 [![apacheairflow Badge](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white&link=)]()
 
 ![svg](https://github.com/barkand/Barkand/blob/main/profile-3d-contrib/profile-season.svg)
