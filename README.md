@@ -29,6 +29,7 @@
 [![Next.js Badge](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=fff&link=)]()
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff&link=)]()
 [![Storybook Badge](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=fff&link=)]()
+![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat)
 <br />
 
 [![Web3.js Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white&link=)]()
