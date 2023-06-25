@@ -1,15 +1,14 @@
       
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=)]()
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=)]()
-[![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white&link=)]()
-[![microsoftsqlserver Badge](https://img.shields.io/badge/-MSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&link=)]()
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white&link=)]()
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white&link=)]()
+[![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=Solidity&logoColor=white&link=)]()
+[![microsoftsqlserver Badge](https://img.shields.io/badge/-MSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white&link=)]()
 <br />
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=)]()
-[![Express Badge](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white&link=)]()
-[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white&link=)]()
-[![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=)]()
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white&link=)]()
+[![Express Badge](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white&link=)]()
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white&link=)]()
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white&link=)]()
 <br />
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&count_private=true&hide=TeX,html,css,shell&layout=compact&hide_progress=true&langs_count=6&bg_color=00000000)
 
@@ -25,6 +24,12 @@
 <!--
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
+
+
+[![Next.js Badge](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=fff&link=)]()
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff&link=)]()
+[![Storybook Badge](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=fff&link=)]()
+<br />
 
 [![Web3.js Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white&link=)]()
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
