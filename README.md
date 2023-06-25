@@ -10,7 +10,7 @@
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white&link=)]()
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&count_private=true&hide=TeX,html,css,shell&layout=compact&hide_progress=true&langs_count=6&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&count_private=true&hide=TeX,html,css,scss,shell&layout=compact&hide_progress=true&langs_count=6&bg_color=00000000)
 
 ---
 
