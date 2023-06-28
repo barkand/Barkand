@@ -23,19 +23,22 @@
 
 <!--
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
-
-
-
-[![Next.js Badge](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff&link=)]()
 [![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square&link=)]()
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff&link=)]()
-<br />
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
 [![Storybook Badge](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=fff&link=)]()
-[![Web3.js Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white&link=)]()
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
+
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
+[![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square&link=)]()
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff&link=)]()
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
+[![Storybook Badge](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=fff&link=)]()
+<br />
+
+[![Web3.js Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white&link=)]()
+[![Next.js Badge](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff&link=)]()
 ![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat)
 [![Web3.js Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white&link=)]()
 [![Prometheus Badge](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white&link=)]()
