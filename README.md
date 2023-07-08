@@ -9,6 +9,16 @@
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white&link=)]()
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=)]()
 <br />
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff&link=)]()
+[![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square&link=)]()
+[![Next.js Badge](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff&link=)]()
+[![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat-square&link=)]()
+<br />
+[![Storybook Badge](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=fff&link=)]()
+[![apacheairflow Badge](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white&link=)]()
+[![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat-square&link=)]()
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&count_private=true&hide=TeX,html,css,scss,shell&layout=compact&hide_progress=true&langs_count=6&bg_color=00000000)
 
@@ -23,32 +33,14 @@
 
 <!--
 
-[![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square&link=)]()
-[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff&link=)]()
-[![Storybook Badge](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=fff&link=)]()
-<br />
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
 
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
-[![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square&link=)]()
-[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff&link=)]()
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
-[![Storybook Badge](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=fff&link=)]()
-<br />
-
-[![Web3.js Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white&link=)]()
-[![Next.js Badge](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff&link=)]()
-![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat)
 [![Web3.js Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white&link=)]()
 [![Prometheus Badge](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white&link=)]()
 [![Grafana Badge](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white&link=)]()
-<br />
-
+![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat)
 [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white&link=)]()
 [![OpenZeppelin Badge](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=OpenZeppelin&logoColor=white&link=)]()
 [![MariaDB Badge](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white&link=)]()
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white&link=)]()
-[![apacheairflow Badge](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white&link=)]()
-
 -->
