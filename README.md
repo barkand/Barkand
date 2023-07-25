@@ -20,6 +20,7 @@
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&count_private=true&hide=TeX,html,css,scss,shell&layout=compact&hide_progress=true&langs_count=6&bg_color=00000000)
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/-barkand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barkand/)](https://www.linkedin.com/in/barkand/)
