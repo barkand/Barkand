@@ -39,7 +39,6 @@
 [![Web3.js Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white&link=)]()
 [![Prometheus Badge](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white&link=)]()
 [![Grafana Badge](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white&link=)]()
-![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat)
 [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white&link=)]()
 [![OpenZeppelin Badge](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=OpenZeppelin&logoColor=white&link=)]()
 [![MariaDB Badge](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white&link=)]()
