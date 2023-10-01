@@ -19,6 +19,11 @@
 [![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat-square&link=)]()
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=)]()
 <br />
+[![Web3.js Badge](https://img.shields.io/badge/-Web3js-F16822?style=flat-square&logo=Web3.js&logoColor=white&link=)]()
+[![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square&link=)]()
+[![Prometheus Badge](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white&link=)]()
+[![Grafana Badge](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white&link=)]()
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&count_private=true&hide=TeX,html,css,scss,shell&layout=compact&hide_progress=true&langs_count=6&bg_color=00000000)
 ---
@@ -36,9 +41,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
 
-[![Web3.js Badge](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white&link=)]()
-[![Prometheus Badge](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white&link=)]()
-[![Grafana Badge](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white&link=)]()
 [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white&link=)]()
 [![OpenZeppelin Badge](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=OpenZeppelin&logoColor=white&link=)]()
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white&link=)]()
