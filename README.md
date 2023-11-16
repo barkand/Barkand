@@ -36,5 +36,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
 
 [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white&link=)]()
-
 -->
