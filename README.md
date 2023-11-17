@@ -31,7 +31,6 @@
 [![Yahoo! Badge](https://img.shields.io/badge/-barkand@ymail.com-6001D2?style=flat-square&logo=Yahoo!&logoColor=white&link=mailto:barkand@ymail.com)](mailto:barkand@ymail.com)
 
 <!--
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&count_private=true&hide=TeX,html,css,scss,shell&layout=compact&hide_progress=true&langs_count=6&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkand&hide=TeX&layout=compact)
 
