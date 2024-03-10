@@ -35,5 +35,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-barkand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barkand/)](https://www.linkedin.com/in/barkand/)
 
+
 [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white&link=)]()
 -->
